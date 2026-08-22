@@ -1,0 +1,79 @@
+# --- Python & FastAPI Project ---
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+cover/
+
+# Logs and debug files
+*.log
+*.pot
+*.tmp
+*.swp
+
+# Database files (dev only)
+*.sqlite3
+*.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Node / frontend artifacts (uncomment if you add a frontend)
+# node_modules/
+# npm-debug.log
+# yarn-error.log
